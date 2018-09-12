@@ -1,0 +1,7 @@
+07162D- dark blue
+EE394C- pink
+1C1C1C-black
+302622-gray
+FF4500-orange
+#ff7e5f;
+#ffc371
